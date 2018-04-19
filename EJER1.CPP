@@ -10,7 +10,7 @@ int main()
         {
 		if(esperfecto(x)==true)
 		{
-			cout<<" numero "<<x<<": ";
+			cout<<" n "<<x<<": ";
 
 			for(int y=1;y<x;y++)
 			{
