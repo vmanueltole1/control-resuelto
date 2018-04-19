@@ -21,7 +21,7 @@ bool Primo(int n)
 }
 int main()
 {
-   
+
 	int p;
 	int cont=0;
 	int j=1;
@@ -35,9 +35,8 @@ int main()
 			cout<<j<<endl;
 			j+=1;
 			cont+=1;
-		}
-      //      ++j;
+            }
+
         }
-	cout<<'\n';
 
 }
