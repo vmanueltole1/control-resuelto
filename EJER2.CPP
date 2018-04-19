@@ -21,14 +21,7 @@ bool Primo(int n)
 }
 int main()
 {
-    int n=3;
-	cout<<"ingrese un numero: ";
-	cin>>n;
-	if(Primo(n)==true)
-		cout<<"n es primo"<<endl;
-	else
-		cout<<"n no es primo"<<endl;
-
+   
 	int p;
 	int cont=0;
 	int j=1;
